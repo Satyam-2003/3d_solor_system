@@ -2,7 +2,7 @@
 
 A stunning, interactive 3D simulation of our solar system built with Three.js. Explore the cosmos with realistic planetary orbits, customizable speeds, and immersive visual effects.
 
-![Solar System Demo]() ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## ✨ Features
 
@@ -161,12 +161,6 @@ Modify the CSS section for:
 - ES6 JavaScript support
 - CSS3 support (for styling)
 
-## 🎪 Demo & Screenshots
-
-### Live Demo
-
-[🌍 View Live Demo](https://yourusername.github.io/solar-system-3d)
-
 ### Features Showcase
 
 - Real-time orbital mechanics
@@ -298,7 +292,3 @@ copies or substantial portions of the Software.
 ---
 
 **⭐ Star this repository if you found it helpful!**
-
-**🐛 Found a bug? [Report it here](https://github.com/yourusername/solar-system-3d/issues)**
-
-**💡 Have an idea? [Share it with us](https://github.com/yourusername/solar-system-3d/discussions)**
